@@ -1,3 +1,3 @@
 # trypython
 try
-try python with 00
+try python with linlin
